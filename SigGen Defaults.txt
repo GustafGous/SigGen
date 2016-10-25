@@ -1,0 +1,15 @@
+localhost
+Matrikon.OPC.Simulation.1
+Bucket Brigade.Real8
+320
+1
+9
+1
+60
+9.5
+325
+315
+0.25
+0.15
+1
+1
